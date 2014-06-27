@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.5.2)
+    yard (0.8.7.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack
+  yard
